@@ -1,0 +1,8 @@
+/home/dharmendra/dotnetcore/dotcore-visualcode/bin/Debug/netcoreapp1.1/dotcore-visualcode.deps.json
+/home/dharmendra/dotnetcore/dotcore-visualcode/bin/Debug/netcoreapp1.1/dotcore-visualcode.runtimeconfig.json
+/home/dharmendra/dotnetcore/dotcore-visualcode/bin/Debug/netcoreapp1.1/dotcore-visualcode.runtimeconfig.dev.json
+/home/dharmendra/dotnetcore/dotcore-visualcode/bin/Debug/netcoreapp1.1/dotcore-visualcode.dll
+/home/dharmendra/dotnetcore/dotcore-visualcode/bin/Debug/netcoreapp1.1/dotcore-visualcode.pdb
+/home/dharmendra/dotnetcore/dotcore-visualcode/obj/Debug/netcoreapp1.1/dotcore-visualcode.AssemblyInfo.cs
+/home/dharmendra/dotnetcore/dotcore-visualcode/obj/Debug/netcoreapp1.1/dotcore-visualcode.dll
+/home/dharmendra/dotnetcore/dotcore-visualcode/obj/Debug/netcoreapp1.1/dotcore-visualcode.pdb
